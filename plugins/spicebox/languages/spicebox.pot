@@ -1,0 +1,1341 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Spiceboxv1.0.0\n"
+"POT-Creation-Date: "
+"2020-06-02 17:31+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: inc/chilly/post-meta.php:5
+#: inc/chilly/post-meta.php:6
+msgid ""
+"Enable slider Banner on "
+"the page"
+msgstr ""
+
+#: inc/chilly/post-meta.php:30
+msgid ""
+"Click Here To Activate "
+"Slider on Individually "
+"This Page"
+msgstr ""
+
+#: inc/chilly/post-meta.php:52
+msgid ""
+"Click Here To Activate "
+"Slider on Individually "
+"This Post"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:8
+msgid "CTA Settings"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:16
+msgid ""
+"Enable Home CTA Section"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:20
+#: inc/cloudpress/features/feature-funfact-section.php:20
+#: inc/cloudpress/features/feature-service-section.php:20
+#: inc/cloudpress/features/feature-slider-section.php:19
+#: inc/honeypress/features/feature-service-section.php:20
+#: inc/honeypress/features/feature-slider-section.php:19
+#: inc/honeypress/features/feature-testimonial-section.php:20
+#: inc/innofit/customizer/about-section.php:17
+#: inc/innofit/customizer/callout-section.php:16
+#: inc/innofit/customizer/contact-section.php:17
+#: inc/innofit/customizer/news-section.php:17
+#: inc/innofit/customizer/services-section.php:17
+#: inc/innofit/customizer/slider-section.php:16
+#: inc/innofit/customizer/subscriber-section.php:55
+#: inc/innofit/customizer/team-section.php:15
+#: inc/innofit/customizer/testimonial-section.php:15
+#: inc/innofit/customizer/wooproduct-section.php:14
+#: inc/spicepress/features/feature-portfolio-section.php:18
+#: inc/spicepress/features/feature-service-section.php:26
+#: inc/spicepress/features/feature-slider-section.php:19
+#: inc/spicepress/features/feature-testimonial-section.php:20
+msgid "ON"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:21
+#: inc/cloudpress/features/feature-funfact-section.php:21
+#: inc/cloudpress/features/feature-service-section.php:21
+#: inc/cloudpress/features/feature-slider-section.php:20
+#: inc/honeypress/features/feature-service-section.php:21
+#: inc/honeypress/features/feature-slider-section.php:20
+#: inc/honeypress/features/feature-testimonial-section.php:21
+#: inc/innofit/customizer/about-section.php:18
+#: inc/innofit/customizer/callout-section.php:17
+#: inc/innofit/customizer/contact-section.php:18
+#: inc/innofit/customizer/news-section.php:18
+#: inc/innofit/customizer/services-section.php:18
+#: inc/innofit/customizer/slider-section.php:17
+#: inc/innofit/customizer/subscriber-section.php:56
+#: inc/innofit/customizer/team-section.php:16
+#: inc/innofit/customizer/testimonial-section.php:16
+#: inc/innofit/customizer/wooproduct-section.php:15
+#: inc/spicepress/features/feature-portfolio-section.php:19
+#: inc/spicepress/features/feature-service-section.php:27
+#: inc/spicepress/features/feature-slider-section.php:20
+#: inc/spicepress/features/feature-testimonial-section.php:21
+msgid "OFF"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:28
+#: inc/cloudpress/sections/cloudpress-cta-section.php:15
+msgid ""
+"Want to Work With Us?"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:33
+#: inc/cloudpress/features/feature-service-section.php:33
+#: inc/cloudpress/features/feature-slider-section.php:77
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:253
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:402
+#: inc/honeypress/features/feature-service-section.php:33
+#: inc/honeypress/features/feature-slider-section.php:77
+#: inc/honeypress/features/feature-testimonial-section.php:45
+#: inc/honeypress/features/feature-testimonial-section.php:102
+#: inc/innofit/customizer/callout-section.php:29
+#: inc/innofit/customizer/news-section.php:30
+#: inc/innofit/customizer/services-section.php:31
+#: inc/innofit/customizer/slider-section.php:73
+#: inc/innofit/customizer/subscriber-section.php:115
+#: inc/innofit/customizer/team-section.php:27
+#: inc/innofit/customizer/testimonial-section.php:66
+#: inc/innofit/customizer/wooproduct-section.php:26
+#: inc/spicepress/features/feature-portfolio-section.php:31
+#: inc/spicepress/features/feature-portfolio-section.php:78
+#: inc/spicepress/features/feature-portfolio-section.php:127
+#: inc/spicepress/features/feature-portfolio-section.php:175
+#: inc/spicepress/features/feature-service-section.php:40
+#: inc/spicepress/features/feature-slider-section.php:76
+#: inc/spicepress/features/feature-testimonial-section.php:70
+#: inc/spicepress/features/feature-testimonial-section.php:128
+msgid "Title"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:41
+#: inc/cloudpress/sections/cloudpress-cta-section.php:16
+msgid ""
+"Choose a package that "
+"suits your every need "
+"for building a website."
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:46
+msgid "Sub Title"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:53
+#: inc/cloudpress/sections/cloudpress-cta-section.php:17
+#: inc/innofit/customizer/contact-section.php:76
+#: inc/innofit/sections/innofit-contact-section.php:23
+msgid "Contact Us"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:58
+msgid "Button"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:65
+#: inc/cloudpress/features/feature-slider-section.php:109
+#: inc/cloudpress/features/feature-slider-section.php:146
+#: inc/honeypress/features/feature-slider-section.php:109
+#: inc/honeypress/features/feature-slider-section.php:146
+#: inc/innofit/customizer/callout-section.php:68
+#: inc/innofit/customizer/slider-section.php:105
+#: inc/spicepress/features/feature-slider-section.php:108
+msgid "#"
+msgstr ""
+
+#: inc/cloudpress/features/feature-cta-section.php:70
+#: inc/cloudpress/features/feature-slider-section.php:114
+#: inc/honeypress/features/feature-slider-section.php:114
+#: inc/innofit/customizer/callout-section.php:74
+#: inc/innofit/customizer/slider-section.php:110
+#: inc/spicepress/features/feature-slider-section.php:113
+msgid "Button Link"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:8
+msgid "Funfact Settings"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:16
+msgid ""
+"Enable funfacts on "
+"homepage"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:30
+msgid "Funfact content"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:33
+msgid "Add new Funfact"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:34
+msgid "Funfact"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:44
+msgid ""
+"To add More funfact? Then"
+msgstr ""
+
+#: inc/cloudpress/features/feature-funfact-section.php:45
+#: inc/cloudpress/features/feature-service-section.php:74
+#: inc/honeypress/features/feature-service-section.php:74
+#: inc/innofit/customizer/services-section.php:73
+#: inc/innofit/customizer/team-section.php:73
+#: inc/innofit/customizer/testimonial-section.php:106
+#: inc/innofit/customizer/testimonial-section.php:138
+msgid "Upgrade to Plus"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:8
+#: inc/honeypress/features/feature-service-section.php:8
+#: inc/spicepress/features/feature-service-section.php:13
+msgid "Service settings"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:16
+#: inc/honeypress/features/feature-service-section.php:16
+#: inc/innofit/customizer/services-section.php:13
+#: inc/spicepress/features/feature-service-section.php:22
+msgid ""
+"Enable Services on "
+"homepage"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:28
+#: inc/cloudpress/sections/cloudpress-service-section.php:10
+#: inc/honeypress/features/feature-service-section.php:28
+#: inc/honeypress/sections/honeypress-service-section.php:10
+#: inc/spicepress/features/feature-service-section.php:35
+#: inc/spicepress/sections/spicepress-features-section.php:10
+msgid "What we Offer?"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:41
+#: inc/cloudpress/sections/cloudpress-service-section.php:11
+#: inc/honeypress/features/feature-service-section.php:41
+#: inc/honeypress/sections/honeypress-service-section.php:11
+msgid "Why Choose Us"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:46
+#: inc/cloudpress/features/feature-slider-section.php:89
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:267
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:416
+#: inc/honeypress/features/feature-service-section.php:46
+#: inc/honeypress/features/feature-slider-section.php:89
+#: inc/honeypress/features/feature-testimonial-section.php:58
+#: inc/honeypress/features/feature-testimonial-section.php:89
+#: inc/innofit/customizer/callout-section.php:41
+#: inc/innofit/customizer/news-section.php:42
+#: inc/innofit/customizer/services-section.php:46
+#: inc/innofit/customizer/slider-section.php:85
+#: inc/innofit/customizer/subscriber-section.php:131
+#: inc/innofit/customizer/team-section.php:38
+#: inc/innofit/customizer/testimonial-section.php:79
+#: inc/innofit/customizer/wooproduct-section.php:37
+#: inc/spicepress/features/feature-portfolio-section.php:44
+#: inc/spicepress/features/feature-portfolio-section.php:92
+#: inc/spicepress/features/feature-portfolio-section.php:141
+#: inc/spicepress/features/feature-portfolio-section.php:189
+#: inc/spicepress/features/feature-service-section.php:53
+#: inc/spicepress/features/feature-slider-section.php:88
+#: inc/spicepress/features/feature-testimonial-section.php:83
+#: inc/spicepress/features/feature-testimonial-section.php:114
+msgid "Description"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:56
+#: inc/honeypress/features/feature-service-section.php:56
+#: inc/spicepress/features/feature-service-section.php:63
+msgid "Service content"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:59
+#: inc/honeypress/features/feature-service-section.php:59
+#: inc/innofit/customizer/services-section.php:59
+#: inc/spicepress/features/feature-service-section.php:66
+msgid "Add new Service"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:60
+#: inc/honeypress/features/feature-service-section.php:60
+#: inc/innofit/customizer/services-section.php:60
+#: inc/innofit/default-pages/home-custom-menu.php:19
+#: inc/spicepress/features/feature-service-section.php:67
+msgid "Service"
+msgstr ""
+
+#: inc/cloudpress/features/feature-service-section.php:73
+#: inc/honeypress/features/feature-service-section.php:73
+#: inc/innofit/customizer/services-section.php:72
+msgid ""
+"To add More Service? Then"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:7
+#: inc/honeypress/features/feature-slider-section.php:7
+#: inc/spicepress/features/feature-slider-section.php:7
+msgid "Slider settings"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:15
+#: inc/honeypress/features/feature-slider-section.php:15
+#: inc/spicepress/features/feature-slider-section.php:15
+msgid "Enable slider"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:35
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:554
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:600
+#: inc/honeypress/features/feature-slider-section.php:35
+#: inc/honeypress/features/feature-testimonial-section.php:72
+#: inc/innofit/customizer/about-section.php:73
+#: inc/innofit/customizer/slider-section.php:32
+#: inc/spicepress/features/feature-portfolio-section.php:59
+#: inc/spicepress/features/feature-portfolio-section.php:108
+#: inc/spicepress/features/feature-portfolio-section.php:157
+#: inc/spicepress/features/feature-slider-section.php:35
+#: inc/spicepress/features/feature-testimonial-section.php:97
+msgid "Image"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:50
+#: inc/honeypress/features/feature-slider-section.php:50
+#: inc/innofit/customizer/slider-section.php:47
+#: inc/spicepress/features/feature-slider-section.php:50
+msgid ""
+"Enable slider image "
+"overlay"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:63
+#: inc/honeypress/features/feature-slider-section.php:63
+#: inc/innofit/customizer/slider-section.php:60
+#: inc/spicepress/features/feature-slider-section.php:63
+msgid ""
+"Slider image overlay "
+"color"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:71
+#: inc/cloudpress/sections/cloudpress-slider-section.php:10
+msgid ""
+"Start Building Your "
+"Website"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:84
+#: inc/honeypress/features/feature-slider-section.php:84
+msgid ""
+"Sea summo mazim ex, ea "
+"errem eleifend "
+"definitionem vim. Ut nec "
+"hinc dolor possim <br> "
+"mei ludus efficiendi ei "
+"sea summo mazim ex."
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:97
+#: inc/cloudpress/sections/cloudpress-slider-section.php:13
+#: inc/honeypress/features/feature-slider-section.php:97
+#: inc/honeypress/sections/honeypress-slider-section.php:13
+#: inc/innofit/sections/innofit-news-section.php:97
+#: inc/spicepress/sections/spicepress-slider-section.php:13
+msgid "Read More"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:102
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:276
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:424
+#: inc/honeypress/features/feature-slider-section.php:102
+#: inc/innofit/customizer/callout-section.php:60
+#: inc/innofit/customizer/slider-section.php:98
+#: inc/spicepress/features/feature-slider-section.php:101
+msgid "Button Text"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:127
+#: inc/cloudpress/features/feature-slider-section.php:164
+#: inc/honeypress/features/feature-slider-section.php:127
+#: inc/honeypress/features/feature-slider-section.php:164
+#: inc/innofit/customizer/callout-section.php:90
+#: inc/innofit/customizer/slider-section.php:123
+#: inc/spicepress/features/feature-slider-section.php:126
+msgid ""
+"Open link in new tab"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:134
+#: inc/cloudpress/sections/cloudpress-slider-section.php:17
+#: inc/honeypress/features/feature-slider-section.php:134
+#: inc/honeypress/sections/honeypress-slider-section.php:17
+msgid "About Us"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:139
+#: inc/honeypress/features/feature-slider-section.php:139
+msgid "Button 2 Text"
+msgstr ""
+
+#: inc/cloudpress/features/feature-slider-section.php:151
+#: inc/honeypress/features/feature-slider-section.php:151
+msgid "Button 2 Link"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:101
+msgid "1250"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:102
+msgid "Our Projects"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:109
+msgid "879"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:117
+msgid "687"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:118
+msgid "Business Partners"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:125
+msgid "3578"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-funfact-section.php:126
+msgid "Clients Review"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-service-section.php:161
+#: inc/honeypress/sections/honeypress-service-section.php:158
+#: inc/spicepress/sections/spicepress-features-section.php:191
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-service-section.php:169
+#: inc/honeypress/sections/honeypress-service-section.php:166
+#: inc/spicepress/sections/spicepress-features-section.php:183
+msgid "Multi-Purpose"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-service-section.php:177
+#: inc/honeypress/sections/honeypress-service-section.php:174
+#: inc/innofit/customizer.php:29
+#: inc/innofit/sections/innofit-services-section.php:30
+msgid "Powerful Options"
+msgstr ""
+
+#: inc/cloudpress/sections/cloudpress-slider-section.php:12
+#: inc/honeypress/sections/honeypress-slider-section.php:12
+msgid ""
+"Sea summo mazim ex, ea "
+"errem eleifend "
+"definitionem vim. Ut nec "
+"hinc dolor possim <br> "
+"mei ludus  efficiendi ei "
+"sea summo mazim ex."
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:260
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:409
+msgid "Subtitle"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:287
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:434
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:623
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:645
+msgid "Link"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:306
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:452
+msgid "Video Url"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:330
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:394
+msgid "Color"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:340
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:463
+msgid "Shortcode"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:348
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:472
+#: inc/honeypress/features/feature-testimonial-section.php:114
+#: inc/spicepress/features/feature-testimonial-section.php:141
+msgid "Designation"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:364
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:483
+msgid "Delete field"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:520
+msgid ""
+"Open link in new tab:"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:531
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:599
+msgid "Icon"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:536
+#, php-format
+msgid ""
+"Note: Some icons may not "
+"be displayed here. You "
+"can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:537
+msgid ""
+"http://fontawesome.io/"
+"icons/"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Upload Image"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Slide Format"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:570
+msgid "Standard"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Aside"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Quote"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Status"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:586
+msgid "Video"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Image type"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:601
+msgid "None"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:609
+msgid "Social icons"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:626
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:656
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:631
+#: inc/controls/customizer-repeater/class/customizer-repeater-control.php:664
+msgid "Add Icon"
+msgstr ""
+
+#: inc/controls/customizer-repeater/inc/icons.php:1
+msgid "Type to filter"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:29
+msgid "Quick Feedback"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:30
+msgid ""
+"Your feedback is "
+"valuable to us."
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:42
+msgid ""
+"I found a better theme"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:48
+msgid ""
+"It's a temporary "
+"deactivation. I'm just "
+"debugging an issue."
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:54
+msgid ""
+"It does not have a "
+"feature I require. If "
+"possible, mention them "
+"in text box."
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:60
+msgid "Others"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:64
+msgid ""
+"Your feedback means a "
+"lot to us"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:72
+#: inc/innofit-feedback-pop-up-form.php:74
+msgid "Submit Feedback"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:80
+#: inc/innofit-feedback-pop-up-form.php:82
+msgid "Skip & Deactive"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:104
+msgid ""
+"Now create your own "
+"JotForm - It's free!"
+msgstr ""
+
+#: inc/feedback-pop-up-form.php:106
+msgid ""
+"Create your own JotForm"
+msgstr ""
+
+#: inc/honeypress/features/feature-slider-section.php:71
+#: inc/honeypress/sections/honeypress-slider-section.php:10
+msgid ""
+"We Provide Quality "
+"Business Solution"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:8
+#: inc/spicepress/features/feature-testimonial-section.php:8
+msgid ""
+"Testimonial settings"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:16
+#: inc/innofit/customizer/testimonial-section.php:11
+#: inc/spicepress/features/feature-testimonial-section.php:16
+msgid ""
+"Enable Home Testimonial "
+"section"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:32
+msgid "Background Color"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:40
+#: inc/honeypress/sections/honeypress-testimonail-section.php:17
+#: inc/spicepress/features/feature-testimonial-section.php:65
+#: inc/spicepress/sections/spicepress-testimonail-section.php:24
+msgid "What People Say"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:53
+#: inc/honeypress/sections/honeypress-testimonail-section.php:18
+msgid ""
+"What Clients Are Say"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:84
+#: inc/honeypress/sections/honeypress-testimonail-section.php:22
+#: inc/spicepress/features/feature-testimonial-section.php:109
+#: inc/spicepress/sections/spicepress-testimonail-section.php:29
+msgid ""
+"Sed ut Perspiciatis Unde "
+"Omnis Iste Sed ut "
+"perspiciatis unde omnis "
+"iste natu error sit "
+"voluptatem accu tium "
+"neque fermentum veposu "
+"miten a tempor nise. "
+"Duis autem vel eum "
+"iriure dolor in "
+"hendrerit in vulputate "
+"velit consequat "
+"reprehender in voluptate "
+"velit esse cillum duis "
+"dolor fugiat nulla "
+"pariatur."
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:97
+#: inc/honeypress/sections/honeypress-testimonail-section.php:19
+#: inc/spicepress/features/feature-testimonial-section.php:123
+#: inc/spicepress/sections/spicepress-testimonail-section.php:26
+msgid "Alice Culan"
+msgstr ""
+
+#: inc/honeypress/features/feature-testimonial-section.php:109
+#: inc/honeypress/sections/honeypress-testimonail-section.php:20
+#: inc/innofit/customizer.php:203
+#: inc/innofit/sections/innofit-team-section.php:183
+#: inc/spicepress/features/feature-testimonial-section.php:136
+#: inc/spicepress/sections/spicepress-testimonail-section.php:27
+msgid "UI Developer"
+msgstr ""
+
+#: inc/innofit/customizer.php:11
+#: inc/innofit/sections/innofit-services-section.php:12
+msgid "Unlimited Support"
+msgstr ""
+
+#: inc/innofit/customizer.php:20
+#: inc/innofit/sections/innofit-services-section.php:21
+msgid ""
+"Pixel Perfect Design"
+msgstr ""
+
+#: inc/innofit/customizer.php:60
+#: inc/innofit/sections/innofit-testimonial-section.php:95
+msgid "Developer"
+msgstr ""
+
+#: inc/innofit/customizer.php:70
+#: inc/innofit/sections/innofit-testimonial-section.php:95
+msgid "Team Leader"
+msgstr ""
+
+#: inc/innofit/customizer.php:79
+#: inc/innofit/sections/innofit-testimonial-section.php:95
+msgid "Volunteer"
+msgstr ""
+
+#: inc/innofit/customizer.php:107
+#: inc/innofit/sections/innofit-team-section.php:132
+msgid "Senior Manager"
+msgstr ""
+
+#: inc/innofit/customizer.php:139
+#: inc/innofit/sections/innofit-team-section.php:149
+msgid "Founder & CEO"
+msgstr ""
+
+#: inc/innofit/customizer.php:170
+#: inc/innofit/sections/innofit-team-section.php:166
+msgid "Web Master"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:4
+msgid "About settings"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:13
+msgid ""
+"Enable About on homepage"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:34
+#: inc/innofit/sections/innofit-about-section.php:20
+msgid "Welcome to"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:34
+#: inc/innofit/sections/innofit-about-section.php:20
+msgid "Innofit"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:35
+#: inc/innofit/sections/innofit-about-section.php:21
+msgid ""
+"We have the right "
+"solutions"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:36
+#: inc/innofit/sections/innofit-about-section.php:22
+msgid ""
+"Sed ut perspiciatis unde "
+"omnis iste natus error "
+"sit voluptatem "
+"accusantium doloremque "
+"laudantium, totame rems "
+"aperiam, eaque ipsa quae "
+"ab illo inventore "
+"veritatis quasi "
+"architecto beatae vitaes "
+"dicta sunt explicabo. "
+"Nemo enim ipsam "
+"voluptatem."
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:37
+#: inc/innofit/sections/innofit-about-section.php:23
+msgid ""
+"Lorem ipsum dolor sit "
+"amet, consectetur "
+"adipiscing elit, sed do "
+"eiusmod tempor "
+"incididunt ut labore et "
+"dolore."
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:38
+#: inc/innofit/sections/innofit-about-section.php:24
+msgid "Our Story"
+msgstr ""
+
+#: inc/innofit/customizer/about-section.php:54
+msgid "About content"
+msgstr ""
+
+#: inc/innofit/customizer/callout-section.php:4
+msgid ""
+"Callout section settings"
+msgstr ""
+
+#: inc/innofit/customizer/callout-section.php:12
+msgid ""
+"Enable Home Callout "
+"section"
+msgstr ""
+
+#: inc/innofit/customizer/callout-section.php:24
+#: inc/innofit/sections/innofit-callout-section.php:8
+msgid ""
+"We create beautiful "
+"WordPress themes for you!"
+msgstr ""
+
+#: inc/innofit/customizer/callout-section.php:36
+#: inc/innofit/sections/innofit-callout-section.php:9
+msgid ""
+"Choose a package that "
+"suits all your needs to "
+"build a website."
+msgstr ""
+
+#: inc/innofit/customizer/callout-section.php:49
+#: inc/innofit/sections/innofit-callout-section.php:10
+msgid "Buy Innofit"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:13
+msgid ""
+"Enable Contact form "
+"section"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:28
+#: inc/innofit/customizer/subscriber-section.php:71
+#: inc/innofit/customizer/testimonial-section.php:27
+#: inc/spicepress/features/feature-testimonial-section.php:31
+msgid "Background Image"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:40
+msgid ""
+"Enable Contact image "
+"overlay"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:52
+msgid ""
+"Contact image overlay "
+"color"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:63
+#: inc/innofit/sections/innofit-contact-section.php:22
+msgid "Send us a message"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:68
+msgid ""
+"Contact form title one"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:81
+msgid ""
+"Contact form title two"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:92
+msgid ""
+"Contact Form shortcode"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:105
+msgid "Enable contact info"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid "Get in touch"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid "Find Us"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid ""
+"Porterfield 508 Virginia "
+"Street Chicago, IL 60653 "
+"(USA)"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid "Phone"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid ""
+"Mobile: (+91) 90 1900 - "
+"6886 Hotline: 1800 6886)"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid "Email"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid "support@innofit.com"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:112
+#: inc/innofit/sections/innofit-contact-section.php:47
+msgid "contact@innofit.com"
+msgstr ""
+
+#: inc/innofit/customizer/contact-section.php:123
+msgid ""
+"Contact Info content"
+msgstr ""
+
+#: inc/innofit/customizer/news-section.php:4
+msgid ""
+"Latest News settings"
+msgstr ""
+
+#: inc/innofit/customizer/news-section.php:13
+msgid ""
+"Enable Home News section"
+msgstr ""
+
+#: inc/innofit/customizer/news-section.php:25
+#: inc/innofit/sections/innofit-news-section.php:14
+msgid "Latest News"
+msgstr ""
+
+#: inc/innofit/customizer/news-section.php:37
+#: inc/innofit/sections/innofit-news-section.php:15
+msgid "From our blog"
+msgstr ""
+
+#: inc/innofit/customizer/news-section.php:59
+msgid ""
+"Enable post meta in blog "
+"section"
+msgstr ""
+
+#: inc/innofit/customizer/services-section.php:4
+msgid "Services settings"
+msgstr ""
+
+#: inc/innofit/customizer/services-section.php:26
+#: inc/innofit/sections/innofit-services-section.php:44
+msgid "What we do"
+msgstr ""
+
+#: inc/innofit/customizer/services-section.php:39
+#: inc/innofit/sections/innofit-services-section.php:45
+msgid "Services we provide"
+msgstr ""
+
+#: inc/innofit/customizer/services-section.php:56
+msgid "Services content"
+msgstr ""
+
+#: inc/innofit/customizer/slider-section.php:4
+msgid "Hero settings"
+msgstr ""
+
+#: inc/innofit/customizer/slider-section.php:12
+msgid "Enable Hero Section"
+msgstr ""
+
+#: inc/innofit/customizer/slider-section.php:68
+#: inc/innofit/sections/innofit-slider-section.php:10
+msgid ""
+"We provide solutions "
+"to<br /> grow your "
+"business"
+msgstr ""
+
+#: inc/innofit/customizer/slider-section.php:80
+#: inc/innofit/sections/innofit-slider-section.php:11
+msgid "Welcome to Innofit"
+msgstr ""
+
+#: inc/innofit/customizer/slider-section.php:93
+#: inc/spicepress/features/feature-slider-section.php:96
+msgid "Read more"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:24
+msgid "General Settings"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:36
+msgid "SendinBlue plugin"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:50
+msgid ""
+"Enable Suscribe section"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:85
+msgid ""
+"Enable susbcribe image "
+"overlay"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:99
+msgid ""
+"Subscribe image overlay "
+"color"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:107
+#: inc/innofit/sections/innofit-subscriber-section.php:15
+msgid ""
+"Subscribe to our "
+"newsletter"
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:123
+#: inc/innofit/sections/innofit-subscriber-section.php:16
+msgid ""
+"Sign up now for more "
+"information about our "
+"company."
+msgstr ""
+
+#: inc/innofit/customizer/subscriber-section.php:146
+msgid "Instructions"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:4
+msgid "Team settings"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:11
+msgid ""
+"Enable Home Team section"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:22
+#: inc/innofit/sections/innofit-team-section.php:21
+msgid ""
+"Meet our superheroes"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:34
+#: inc/innofit/sections/innofit-team-section.php:22
+msgid ""
+"The best team available"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:53
+msgid "Team content"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:56
+msgid "Add new Team Member"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:57
+msgid "Team Member"
+msgstr ""
+
+#: inc/innofit/customizer/team-section.php:72
+msgid ""
+"To add More Team? Then"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:3
+msgid ""
+"Testimonials settings"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:39
+#: inc/spicepress/features/feature-testimonial-section.php:43
+msgid ""
+"Enable testimonial image "
+"overlay"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:52
+#: inc/spicepress/features/feature-testimonial-section.php:56
+msgid ""
+"Testimonial image "
+"overlay color"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:61
+#: inc/innofit/sections/innofit-testimonial-section.php:12
+msgid ""
+"What our clients say"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:74
+#: inc/innofit/sections/innofit-testimonial-section.php:13
+msgid ""
+"We provide best "
+"WordPress solutions for "
+"your business."
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:89
+msgid "Testimonial content"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:91
+msgid "Add new Testimonial"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:92
+msgid "Testimonial"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:105
+msgid ""
+"To add More Testimonial? "
+"Then"
+msgstr ""
+
+#: inc/innofit/customizer/testimonial-section.php:135
+msgid ""
+"More options available "
+"for Testimonial section "
+"in Innofit Plus"
+msgstr ""
+
+#: inc/innofit/customizer/wooproduct-section.php:3
+msgid "Home Shop settings"
+msgstr ""
+
+#: inc/innofit/customizer/wooproduct-section.php:10
+msgid ""
+"Enable Home Shop section"
+msgstr ""
+
+#: inc/innofit/customizer/wooproduct-section.php:21
+#: inc/innofit/sections/innofit-wooproduct-section.php:16
+msgid "Featured Products"
+msgstr ""
+
+#: inc/innofit/customizer/wooproduct-section.php:33
+#: inc/innofit/sections/innofit-wooproduct-section.php:17
+msgid ""
+"Our amazing products"
+msgstr ""
+
+#: inc/innofit/default-pages/home-custom-menu.php:12
+msgid "Home"
+msgstr ""
+
+#: inc/innofit/default-pages/home-custom-menu.php:26
+msgid "About"
+msgstr ""
+
+#: inc/innofit/default-pages/home-custom-menu.php:33
+msgid "Team"
+msgstr ""
+
+#: inc/innofit/default-pages/home-custom-menu.php:40
+msgid "Blog"
+msgstr ""
+
+#: inc/innofit/default-pages/home-custom-menu.php:47
+msgid "Contact"
+msgstr ""
+
+#: inc/innofit/sections/innofit-wooproduct-section.php:56
+msgid "On Sale!"
+msgstr ""
+
+#: inc/innofit/sections/innofit-wooproduct-section.php:68
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/innofit/sections/innofit-wooproduct-section.php:68
+msgid "out of 5"
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:6
+msgid "Portfolio settings"
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:14
+msgid ""
+"Enable Home Portfolio "
+"section"
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:27
+#: inc/spicepress/sections/spicepress-portfolio-section.php:9
+msgid "Our Portfolio"
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:40
+#: inc/spicepress/features/feature-service-section.php:48
+#: inc/spicepress/features/feature-slider-section.php:83
+#: inc/spicepress/features/feature-testimonial-section.php:78
+#: inc/spicepress/sections/spicepress-features-section.php:11
+#: inc/spicepress/sections/spicepress-portfolio-section.php:10
+#: inc/spicepress/sections/spicepress-slider-section.php:12
+#: inc/spicepress/sections/spicepress-testimonail-section.php:25
+msgid ""
+"Sea summo mazim ex, ea "
+"errem eleifend "
+"definitionem vim. Ut nec "
+"hinc dolor possim mei "
+"ludus efficiendi ei sea "
+"summo mazim ex."
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:72
+#: inc/spicepress/sections/spicepress-portfolio-section.php:11
+#: inc/spicepress/sections/spicepress-portfolio-section.php:15
+#: inc/spicepress/sections/spicepress-portfolio-section.php:19
+msgid "Art Office Design"
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:86
+#: inc/spicepress/features/feature-portfolio-section.php:135
+#: inc/spicepress/features/feature-portfolio-section.php:183
+#: inc/spicepress/sections/spicepress-portfolio-section.php:12
+#: inc/spicepress/sections/spicepress-portfolio-section.php:16
+#: inc/spicepress/sections/spicepress-portfolio-section.php:20
+msgid ""
+"Lorem ipsum dolor sit "
+"amet, consectetur "
+"adipisicing elit.."
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:121
+msgid "Graphics Design"
+msgstr ""
+
+#: inc/spicepress/features/feature-portfolio-section.php:169
+msgid "WordPress Themes"
+msgstr ""
+
+#: inc/spicepress/features/feature-slider-section.php:71
+#: inc/spicepress/sections/spicepress-slider-section.php:10
+msgid ""
+"Welcome to SpicePress "
+"Theme"
+msgstr ""
+
+#: inc/spicepress/sections/spicepress-features-section.php:175
+msgid "Easy to Use"
+msgstr ""
+
+#: inc/spicepress/sections/spicepress-features-section.php:176
+#: inc/spicepress/sections/spicepress-features-section.php:184
+#: inc/spicepress/sections/spicepress-features-section.php:192
+msgid ""
+"Phasellus facilisis, "
+"nunc in lacinia auctor, "
+"eros lacus aliquet "
+"velit, quis lobortis "
+"risus nunc nec nisi "
+"maecans et turpis vitae "
+"velit.volutpat porttitor "
+"a sit amet est. In eu "
+"rutrum ante. Nullam id "
+"lorem fermentum, "
+"accumsan enim non auctor "
+"neque."
+msgstr ""

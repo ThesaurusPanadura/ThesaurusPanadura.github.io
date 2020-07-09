@@ -1,0 +1,952 @@
+# Translation of Themes - HoneyPress in English (UK)
+# This file is distributed under the same license as the Themes - HoneyPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-08 11:35:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - HoneyPress\n"
+
+#. Theme Name of the theme
+#: admin/tab-pages/free_vs_pro.php:10
+msgid "HoneyPress"
+msgstr "HoneyPress"
+
+#. Description of the theme
+msgid "HoneyPress is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyPress has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyPress is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "HoneyPress is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyPress has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyPress is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+
+#: admin/tab-pages/free_vs_pro.php:161
+msgid "RTL language support"
+msgstr "RTL language support"
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:16
+msgid "Oops! Page not found!"
+msgstr "Oops! Page not found!"
+
+#: 404.php:17
+msgid "The page you are looking for can't be found"
+msgstr "The page you are looking for can't be found"
+
+#: 404.php:19
+msgid "Go Back"
+msgstr "Go Back"
+
+#. translators: 1: title.
+#: comments.php:30
+msgid "1 COMMENT"
+msgstr "1 COMMENT"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s COMMENT"
+msgid_plural "%1$s COMMENTS"
+msgstr[0] "%1$s COMMENT"
+msgstr[1] "%1$s COMMENTS"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:568
+msgid "Slide Format"
+msgstr "Slide Format"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Aside"
+msgstr "Aside"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Quote"
+msgstr "Quote"
+
+#: inc/class-tgm-plugin-activation.php:2554
+#: inc/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Status"
+msgstr "Status"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Video"
+msgstr "Video"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Image type"
+msgstr "Image type"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "None"
+msgstr "None"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "Social icons"
+msgstr "Social icons"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+#: inc/customizer-repeater/class/customizer-repeater-control.php:658
+msgid "Remove Icon"
+msgstr "Remove Icon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:633
+#: inc/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Add Icon"
+msgstr "Add Icon"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: admin/inc/plugin-include-control.php:40
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:41
+msgid "Installing"
+msgstr "Installing"
+
+#: inc/customizer-notify/honeypress-customizer-notify.php:109
+#: admin/inc/plugin-include-control.php:41
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:42
+msgid "Activating"
+msgstr "Activating"
+
+#: admin/inc/plugin-include-control.php:42
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:43
+msgid "Error"
+msgstr "Error"
+
+#: admin/inc/class-spicethemes-about-page.php:112
+msgid "View Theme Info"
+msgstr "View Theme Info"
+
+#: admin/inc/class-spicethemes-about-page.php:120
+msgid "About %1$s %2$s"
+msgstr "About %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:121
+msgid "Welcome to %1$s %2$s"
+msgstr "Welcome to %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:135
+msgid "Get started with HoneyPress"
+msgstr "Get started with HoneyPress"
+
+#: admin/inc/class-spicethemes-about-page.php:237
+msgid "See changelog below:"
+msgstr "See changelog below:"
+
+#: admin/inc/class-spicethemes-about-page.php:287
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: inc/customizer/customizer-recommended-plugin.php:12
+#: admin/inc/class-spicethemes-about-page.php:293
+msgid "Recommended Actions"
+msgstr "Recommended Actions"
+
+#: admin/inc/class-spicethemes-about-page.php:299
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: admin/inc/class-spicethemes-about-page.php:304
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/inc/class-spicethemes-about-page.php:309
+msgid "Free vs. Plus"
+msgstr "Free vs. Plus"
+
+#: admin/inc/class-spicethemes-about-page.php:387
+msgid "Install %s now"
+msgstr "Install %s now"
+
+#: admin/inc/class-spicethemes-about-page.php:389
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Install and activate"
+
+#: admin/inc/class-spicethemes-about-page.php:406
+msgid "Activate %s now"
+msgstr "Activate %s now"
+
+#: inc/class-tgm-plugin-activation.php:2726
+#: inc/customizer/customizer-recommended-plugin.php:15
+#: admin/inc/class-spicethemes-about-page.php:408
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/class-tgm-plugin-activation.php:2321
+#: admin/inc/class-spicethemes-about-page.php:411
+msgid "Active"
+msgstr "Active"
+
+#: admin/inc/class-spicethemes-about-page.php:537
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To access the advanced Frontpage sections and the other features, please install the SpiceBox plugin."
+msgstr "To access the advanced Frontpage sections and the other features, please install the SpiceBox plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:543
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:545
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "To display the contact form, please install the Contact Form 7 plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:551
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "To display breadcrumbs, please install the Yoast SEO plugin."
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Install SpiceBox Now"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Activate SpiceBox now"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Activate now"
+
+#: admin/tab-pages/free_vs_pro.php:10
+msgid "HoneyPress Pro"
+msgstr "HoneyPress PRO"
+
+#: admin/tab-pages/free_vs_pro.php:15
+msgid "WooCommerce Support"
+msgstr "WooCommerce support"
+
+#: admin/tab-pages/free_vs_pro.php:23
+msgid "Contact Form Support"
+msgstr "Contact Form Support"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "Slider/Banner Section"
+msgstr "Slider/Banner Section"
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Full Screen"
+msgstr "Full Screen"
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Slides"
+msgstr "Slides"
+
+#: admin/tab-pages/free_vs_pro.php:50 admin/tab-pages/free_vs_pro.php:67
+#: admin/tab-pages/free_vs_pro.php:84 admin/tab-pages/free_vs_pro.php:108
+#: admin/tab-pages/free_vs_pro.php:132 admin/tab-pages/free_vs_pro.php:156
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "Service Section"
+msgstr "Service Section"
+
+#: admin/tab-pages/free_vs_pro.php:64 admin/tab-pages/free_vs_pro.php:81
+msgid "Number of items"
+msgstr "Number of items"
+
+#: admin/tab-pages/free_vs_pro.php:66 admin/tab-pages/free_vs_pro.php:155
+msgid "3"
+msgstr "3"
+
+#: admin/tab-pages/free_vs_pro.php:73
+msgid "Shop Section"
+msgstr "Shop Section"
+
+#: admin/tab-pages/free_vs_pro.php:83 admin/tab-pages/free_vs_pro.php:131
+msgid "No"
+msgstr "No"
+
+#: admin/tab-pages/free_vs_pro.php:89 admin/tab-pages/free_vs_pro.php:113
+#: admin/tab-pages/free_vs_pro.php:137
+msgid "Carousel effect"
+msgstr "Carousel effect"
+
+#: inc/customizer/customizer-pro-feature.php:42
+#: admin/tab-pages/free_vs_pro.php:97
+msgid "Testimonial Section"
+msgstr "Testimonial Section"
+
+#: admin/tab-pages/free_vs_pro.php:105
+msgid "Number of testimonials"
+msgstr "Number of testimonials"
+
+#: admin/tab-pages/free_vs_pro.php:49 admin/tab-pages/free_vs_pro.php:107
+#: admin/tab-pages/free_vs_pro.php:203 admin/tab-pages/free_vs_pro.php:204
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/customizer-pro-feature.php:50
+#: admin/tab-pages/free_vs_pro.php:121
+msgid "Team Section"
+msgstr "Team Section"
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "Number of team members"
+msgstr "Number of team members"
+
+#: admin/tab-pages/free_vs_pro.php:145
+msgid "Latest News Section"
+msgstr "Latest News Section"
+
+#: admin/tab-pages/free_vs_pro.php:153
+msgid "Number of articles"
+msgstr "Number of articles"
+
+#: admin/tab-pages/free_vs_pro.php:169
+msgid "Theme layouts"
+msgstr "Theme layouts"
+
+#: admin/tab-pages/free_vs_pro.php:177
+msgid "Wide layout"
+msgstr "Wide layout"
+
+#: admin/tab-pages/free_vs_pro.php:185
+msgid "Boxed layout"
+msgstr "Boxed layout"
+
+#: admin/tab-pages/free_vs_pro.php:193
+msgid "Footer layouts"
+msgstr "Footer layouts"
+
+#: admin/tab-pages/free_vs_pro.php:201
+msgid "Number of footer layouts"
+msgstr "Number of footer layouts"
+
+#: admin/tab-pages/free_vs_pro.php:209
+msgid "Contact Form Section"
+msgstr "Contact Form Section"
+
+#: admin/tab-pages/free_vs_pro.php:217
+msgid "Subscriber Section"
+msgstr "Subscriber Section"
+
+#: admin/tab-pages/free_vs_pro.php:225
+msgid "Callout Section"
+msgstr "Callout Section"
+
+#: admin/tab-pages/free_vs_pro.php:233
+msgid "Portfolio Section"
+msgstr "Portfolio Section"
+
+#: admin/tab-pages/free_vs_pro.php:241
+msgid "Funfact Section"
+msgstr "Funfact Section"
+
+#: admin/tab-pages/free_vs_pro.php:249
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: inc/customizer/customizer-pro-feature.php:46
+#: admin/tab-pages/free_vs_pro.php:257
+msgid "Client Section"
+msgstr "Client Section"
+
+#: admin/tab-pages/free_vs_pro.php:265
+msgid "Blog Templates (Left, Right, Full-Width)"
+msgstr "Blog Templates (Left, Right, Full-Width)"
+
+#: admin/tab-pages/free_vs_pro.php:273 admin/tab-pages/getting-started.php:104
+msgid "Typography"
+msgstr "Typography"
+
+#: admin/tab-pages/free_vs_pro.php:281 admin/tab-pages/getting-started.php:115
+msgid "Drag and drop section orders"
+msgstr "Drag and drop section orders"
+
+#: admin/tab-pages/free_vs_pro.php:289 admin/tab-pages/getting-started.php:111
+msgid "Mulitple Color Schemes"
+msgstr "Mulitple Color Schemes"
+
+#: admin/tab-pages/free_vs_pro.php:297 admin/tab-pages/getting-started.php:132
+msgid "Homepage Sections Before/After Hooks"
+msgstr "Homepage Sections Before/After Hooks"
+
+#: admin/tab-pages/free_vs_pro.php:305 admin/tab-pages/getting-started.php:107
+msgid "WPML Support"
+msgstr "Supports WPML"
+
+#: admin/tab-pages/free_vs_pro.php:313
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: admin/tab-pages/free_vs_pro.php:321
+msgid "Get HoneyPress PRO Now!"
+msgstr "Get HoneyPress PRO Now!"
+
+#: admin/tab-pages/getting-started.php:12
+msgid "HoneyPress theme Configuration"
+msgstr "HoneyPress theme Configuration"
+
+#: admin/tab-pages/getting-started.php:18
+msgid "Links to Customizer Settings"
+msgstr "Links to customizer settings"
+
+#: admin/tab-pages/getting-started.php:22
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: admin/tab-pages/getting-started.php:25
+msgid "Blog And Footer"
+msgstr "Blog and Footer"
+
+#: admin/tab-pages/getting-started.php:28
+msgid "Footer Widgets"
+msgstr "Footer Widgets"
+
+#: admin/tab-pages/getting-started.php:31
+msgid "Header Image"
+msgstr "Header Image"
+
+#: admin/tab-pages/getting-started.php:34
+msgid "Homepage Sections"
+msgstr "Homepage Sections"
+
+#: admin/tab-pages/getting-started.php:76
+msgid "Additional features in HoneyPress PRO"
+msgstr "Additional features in HoneyPress PRO"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Unlimited slides"
+msgstr "Unlimited slides"
+
+#: admin/tab-pages/getting-started.php:83
+msgid "Unlimited Service Section"
+msgstr "Unlimited Service Section"
+
+#: admin/tab-pages/getting-started.php:86
+msgid "Boxed layout support"
+msgstr "Boxed layout support"
+
+#: admin/tab-pages/getting-started.php:89
+msgid "Portfolio section"
+msgstr "Portfolio section"
+
+#: admin/tab-pages/getting-started.php:92
+msgid "Funfact section"
+msgstr "Funfact section"
+
+#: admin/tab-pages/getting-started.php:95
+msgid "Google Maps section"
+msgstr "Google Maps section"
+
+#: admin/tab-pages/getting-started.php:98
+msgid "Client section"
+msgstr "Client section"
+
+#: admin/tab-pages/getting-started.php:101
+msgid "Multiple Blog Templates"
+msgstr "Multiple Blog Templates"
+
+#: admin/tab-pages/getting-started.php:119
+msgid "Team section with carousel effect"
+msgstr "Team section with carousel effect"
+
+#: admin/tab-pages/getting-started.php:123
+msgid "Shop section with unlimited items"
+msgstr "Shop section with unlimited items"
+
+#: admin/tab-pages/getting-started.php:126
+msgid "Shop section with carousel effect"
+msgstr "Shop section with carousel effect"
+
+#: admin/tab-pages/getting-started.php:129
+msgid "Testimonial section with carousel effect"
+msgstr "Testimonial section with carousel effect"
+
+#: admin/tab-pages/getting-started.php:136
+msgid "Latest news section with grid format"
+msgstr "Latest news section with grid format"
+
+#: admin/tab-pages/getting-started.php:146
+msgid "Useful Links"
+msgstr "Useful Links"
+
+#: admin/tab-pages/getting-started.php:150
+msgid "HoneyPress Demo"
+msgstr "HoneyPress Demo"
+
+#: admin/tab-pages/getting-started.php:153
+msgid "HoneyPress Pro Demo"
+msgstr "HoneyPress Pro Demo"
+
+#: admin/tab-pages/getting-started.php:157
+msgid "HoneyPress Theme Support"
+msgstr "HoneyPress Theme Support"
+
+#: admin/tab-pages/getting-started.php:161
+msgid "Your feedback is valuable to us"
+msgstr "Your feedback is valuable to us"
+
+#: admin/tab-pages/getting-started.php:165
+msgid "HoneyPress Pro Details"
+msgstr "HoneyPress Pro Details"
+
+#: admin/tab-pages/getting-started.php:169
+msgid "HoneyPress Documentation"
+msgstr "HoneyPress Documentation"
+
+#: admin/tab-pages/getting-started.php:173
+msgid "Pre-sales enquiry"
+msgstr "Pre-sales enquiry"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#: inc/menu/default_menu_walker.php:17 inc/breadcrumbs/breadcrumbs.php:35
+#: inc/breadcrumbs/breadcrumbs.php:45
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumbs/breadcrumbs.php:53
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/breadcrumbs/breadcrumbs.php:69
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/breadcrumbs/breadcrumbs.php:73
+msgid "Category: "
+msgstr "Category: "
+
+#: inc/breadcrumbs/breadcrumbs.php:88
+msgid "Tag : "
+msgstr "Tag: "
+
+#: inc/customizer/customizer-pro-feature.php:13
+#: inc/customizer/customizer-pro-feature.php:17
+#: inc/customizer/customizer-pro-feature.php:21
+#: inc/customizer/customizer-pro-feature.php:25
+#: inc/customizer/customizer-pro-feature.php:29
+#: inc/customizer/customizer-pro-feature.php:33
+#: inc/customizer/customizer-pro-feature.php:37
+#: inc/customizer/customizer-pro-feature.php:41
+#: inc/customizer/customizer-pro-feature.php:45
+#: inc/customizer/customizer-pro-feature.php:49
+#: inc/customizer/customizer-pro-feature.php:53
+#: inc/customizer/customizer-pro-feature.php:57
+#: inc/customizer/customizer-pro-feature.php:61
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/customizer-pro-feature.php:14
+msgid "Advanced Hook Settings"
+msgstr "Advanced Hook Settings"
+
+#: inc/customizer/customizer-pro-feature.php:18
+msgid "Multiple Page Templates"
+msgstr "Multiple Page Templates"
+
+#: inc/customizer/customizer-pro-feature.php:22
+msgid "Portfolio Management"
+msgstr "Portfolio Management"
+
+#: inc/customizer/customizer-pro-feature.php:26
+msgid "Slide Variations"
+msgstr "Slide Variations"
+
+#: inc/customizer/customizer-pro-feature.php:30
+msgid "Create Unlimited Services"
+msgstr "Create Unlimited Services"
+
+#: inc/customizer/customizer-pro-feature.php:34
+msgid "Typography Settings"
+msgstr "Typography Settings"
+
+#: inc/customizer/customizer-pro-feature.php:38
+msgid "Manage Contact Details"
+msgstr "Manage Contact Details"
+
+#: inc/customizer/customizer-pro-feature.php:54
+msgid "Custom Color Schemes"
+msgstr "Custom Color Schemes"
+
+#: inc/customizer/customizer-pro-feature.php:58
+msgid "Section Reordering"
+msgstr "Section Reordering"
+
+#: inc/customizer/customizer-pro-feature.php:62
+msgid "Quality Support"
+msgstr "Quality Support"
+
+#: inc/customizer/customizer-pro-feature.php:65
+msgid "UPGRADE TO PRO"
+msgstr "UPGRADE TO PRO"
+
+#: inc/customizer/customizer-pro-feature.php:72
+msgid "View PRO Details"
+msgstr "View PRO Details"
+
+#: inc/customizer/customizer-pro-feature.php:97
+msgid "With individual hook settings, you can insert html or php code according to your needs."
+msgstr "With individual hook settings, you can insert html or php code according to your needs."
+
+#: inc/customizer/customizer-pro-feature.php:98
+msgid "Theme comes with multiple page settings like multiple blog, portfolio 2/3/4 column, about us etc."
+msgstr "Theme comes with multiple page settings like multiple blog, portfolio 2/3/4 column, about us etc."
+
+#: inc/customizer/customizer-pro-feature.php:99
+msgid "Create a professional-looking portfolio."
+msgstr "Create a professional-looking portfolio."
+
+#: inc/customizer/customizer-pro-feature.php:100
+msgid "PRO version comes with slide variation options, so you can adjust your content through text alignment."
+msgstr "PRO version comes with slide variation options, so you can adjust your content through text alignment."
+
+#: inc/customizer/customizer-pro-feature.php:101
+msgid "Add as many services as you like. You can even display each service on a separate page."
+msgstr "Add as many services as you like. You can even display each service on a separate page."
+
+#: inc/customizer/customizer-pro-feature.php:102
+msgid "Typography Settings allow you to choose content font size, font family, etc"
+msgstr "Typography Settings allow you to choose content font size, font family, etc"
+
+#: inc/customizer/customizer-pro-feature.php:103
+msgid "Theme comes with a beautifully designed section where you can manage your contact details."
+msgstr "Theme comes with a beautifully designed section where you can manage your contact details."
+
+#: inc/customizer/customizer-pro-feature.php:104
+msgid "Show all your team members, clients, testimonials on front page."
+msgstr "Show all your team members, clients, testimonials on front page."
+
+#: inc/customizer/customizer-pro-feature.php:105
+msgid "You can select amongst predefined color skins, or you can create your own without writing any CSS code."
+msgstr "You can select amongst predefined color skins, or you can create your own without writing any CSS code."
+
+#: inc/customizer/customizer-pro-feature.php:106
+msgid "The layout manager will help you rearrange all sections."
+msgstr "The layout manager will help you rearrange all sections."
+
+#: inc/customizer/customizer-pro-feature.php:107
+msgid "Translation-ready, the theme supports popular plugins WPML and Polylang"
+msgstr "Translation-ready, the theme supports popular plugins WPML and Polylang"
+
+#: inc/customizer/customizer-pro-feature.php:108
+msgid "24/7 professional support for Google Maps"
+msgstr "24/7 professional support for Google Maps"
+
+#: inc/customizer/customizer-pro-feature.php:109
+msgid "Dedicated support, widget and sidebar management."
+msgstr "Dedicated support, widget and sidebar management."
+
+#: inc/customizer/customizer-recommended-plugin.php:8
+msgid "Install and activate the %s plugin to take full advantage of all the features this theme has to offer."
+msgstr "Install and activate the %s plugin to take full advantage of all the features this theme has to offer."
+
+#: inc/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Plugin"
+msgstr "Recommended plugin"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Install and Activate"
+msgstr "Install and Activate"
+
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: inc/customizer/customizer.php:44
+msgid "HoneyPress theme options"
+msgstr "HoneyPress theme options"
+
+#: inc/customizer/customizer_sections_settings.php:21
+msgid "Homepage section settings"
+msgstr "Homepage section settings"
+
+#: inc/customizer/customizer_sections_settings.php:26
+msgid "Latest News settings"
+msgstr "Latest News settings"
+
+#: inc/customizer/customizer_sections_settings.php:35
+msgid "Enable Home News section"
+msgstr "Enable Home News section"
+
+#: inc/customizer/customizer_sections_settings.php:39
+msgid "ON"
+msgstr "ON"
+
+#: inc/customizer/customizer_sections_settings.php:40
+msgid "OFF"
+msgstr "OFF"
+
+#: inc/customizer/customizer_sections_settings.php:47 index-news.php:9
+msgid "Stay Informed"
+msgstr "Stay Informed"
+
+#: inc/customizer/customizer_sections_settings.php:51
+#: inc/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Title"
+msgstr "Title"
+
+#: inc/customizer/customizer_sections_settings.php:62
+#: inc/customizer-repeater/class/customizer-repeater-control.php:271
+#: inc/customizer-repeater/class/customizer-repeater-control.php:418
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer/customizer_sections_settings.php:80
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "Enable post meta values, like author name, date, comments, etc."
+
+#: inc/customizer/footer-options.php:6
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: inc/customizer/footer-options.php:7
+msgid "Footer Settings:"
+msgstr "Footer Settings:"
+
+#: inc/customizer/footer-options.php:24
+msgid "Hide/Show Footer"
+msgstr "Hide/Show Footer"
+
+#: inc/customizer/footer-options.php:42
+msgid "Copyright Content"
+msgstr "Copyright Content"
+
+#: inc/customizer/helper-function.php:13 inc/customizer/helper-function.php:20
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr "<i class=\"fa fa-angle-double-left\"></i>"
+
+#: inc/customizer/helper-function.php:14 inc/customizer/helper-function.php:19
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr "<i class=\"fa fa-angle-double-right\"></i>"
+
+#: inc/customizer/helper-function.php:39
+msgid "%1$s  %2$s"
+msgstr "%1$s  %2$s"
+
+#: inc/customizer/single-blog-options.php:11
+msgid "Single Blog Section"
+msgstr "Single Blog Section"
+
+#: inc/customizer/single-blog-options.php:25
+msgid "Hide/Show Categories"
+msgstr "Hide/Show Categories"
+
+#: inc/customizer/single-blog-options.php:40
+msgid "Hide/Show Date"
+msgstr "Hide/Show Date"
+
+#: inc/customizer/single-blog-options.php:55
+#: inc/customizer/single-blog-options.php:70
+msgid "Hide/Show Comments"
+msgstr "Hide/Show Comments"
+
+#: inc/customizer/single-blog-options.php:85
+msgid "Hide/Show Author Name"
+msgstr "Hide/Show Author Name"
+
+#: inc/customizer/single-blog-options.php:100
+msgid "Hide/Show Tags"
+msgstr "Hide/Show Tags"
+
+#: inc/customizer/single-blog-options.php:114
+msgid "Hide/Show Author Details"
+msgstr "Hide/Show Author Details"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Add new field"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Customiser Repeater"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:264
+#: inc/customizer-repeater/class/customizer-repeater-control.php:411
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:280
+#: inc/customizer-repeater/class/customizer-repeater-control.php:426
+msgid "Button Text"
+msgstr "Button Text"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:291
+#: inc/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/customizer-repeater/class/customizer-repeater-control.php:625
+#: inc/customizer-repeater/class/customizer-repeater-control.php:647
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Video Url"
+msgstr "Video URL"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:396
+msgid "Color"
+msgstr "Colour"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:342
+#: inc/customizer-repeater/class/customizer-repeater-control.php:465
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:350
+#: inc/customizer-repeater/class/customizer-repeater-control.php:474
+msgid "Designation"
+msgstr "Designation"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:366
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Delete field"
+msgstr "Delete field"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Open link in new tab:"
+msgstr "Open link in new tab:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:533
+#: inc/customizer-repeater/class/customizer-repeater-control.php:601
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:538
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:556
+#: inc/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Image"
+msgstr "Image"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:559
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: inc/header/header-nav.php:41
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+#: inc/theme-setup.php:33
+msgid "Primary"
+msgstr "Primary"
+
+#: inc/widget/register-widget.php:9
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/widget/register-widget.php:11
+msgid "Add Sidebar widgets."
+msgstr "Add Sidebar widgets."
+
+#: inc/widget/register-widget.php:19
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: inc/widget/register-widget.php:21
+msgid "Add widgets here to show on footer 1."
+msgstr "Add here the widgets to be shown on footer 1."
+
+#: inc/widget/register-widget.php:29
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: inc/widget/register-widget.php:31
+msgid "Add widgets here to show on footer 2."
+msgstr "Add here the widgets to be shown on footer 2."
+
+#: inc/widget/register-widget.php:39
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: inc/widget/register-widget.php:41
+msgid "Add widgets here to show on footer 3."
+msgstr "Add here the widgets to be shown on footer 3."
+
+#: inc/widget/register-widget.php:48 inc/widget/register-widget.php:50
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce sidebar widget area"
+
+#: inc/customizer/customizer_sections_settings.php:58 index-news.php:10
+msgid "Our Latest News"
+msgstr "Our Latest News"
+
+#: index-news.php:66 template-parts/content-single.php:21
+#: template-parts/content-search.php:17 template-parts/content.php:17
+msgid "By"
+msgstr "By"
+
+#: index-news.php:76 template-parts/content-search.php:35
+#: template-parts/content.php:35
+msgid "Read more"
+msgstr "Read more"
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Go"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Business Template"
+
+#: template-parts/auth-details.php:7
+msgid "Written by: "
+msgstr "Written by: "
+
+#: template-parts/auth-details.php:15
+msgid "View All Posts"
+msgstr "View All Posts"
+
+#: template-parts/content-none.php:3
+msgid "Nothing found"
+msgstr "Nothing found"
+
+#: template-parts/content-none.php:4
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/honeypress-wordpress-theme/"
+msgstr "https://spicethemes.com/honeypress-wordpress-theme/"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"

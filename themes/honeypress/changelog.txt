@@ -1,0 +1,58 @@
+== Changelog ==
+
+@Version 1.3.2
+* Added "Requires at least", "Tested up to", "Requires PHP fields" in the style.css.
+
+@Version 1.3.1
+* Added custom color setting.
+* Added keyboard navigation for fallback menus.
+* Removed custom header support and related post feature.
+
+@Version 1.3
+* Declare the license of all the external resources and fixed some issues.
+
+@Version 1.2
+* Remove accessibility-ready tag.
+
+@Version 1.1.1
+* Changed default copyright text.
+
+@Version 1.1
+* Added RTL language support.
+* Update "About HoneyPress" page.
+
+@Version 1.0
+* Minor Update
+
+@Version 0.9.7
+* Update Screenshot
+
+@Version 0.9.6
+* Make skip links compatible
+* Make keyboard navigation compatible
+
+@Version 0.9.5
+* Fix Issue
+* Update pot file
+
+@Version 0.9.1
+* Update in breadcrumb file
+* Update pot file
+
+@Version 0.9
+* Update in option page
+* Update Screenshot 
+
+@Version 0.8.1
+* Minor Update
+
+@Version 0.8
+* Update theme description, tags, theme URI and readme.txt file
+
+@Version 0.7
+* Make Woocommerce compatible
+* Add Business template
+* Add Option page
+
+@Version 0.1
+* Initial release

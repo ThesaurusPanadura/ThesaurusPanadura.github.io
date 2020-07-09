@@ -1,1 +1,0 @@
-# ThesaurusPanadura.github.io
